@@ -9,10 +9,10 @@ A Hacking Path for Kids Who Can't Code Good and Who Wanna Learn to Do Other Stuf
     3. [Compiling to Assembly from Scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
 2. Cryptography
     1. [Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
-    - [Crypto Pals](https://cryptopals.com)
-    - [Crypto Hack](https://cryptohack.org)
-    - [A course in Number Theory and cryptography](https://www.amazon.com/Course-Number-Cryptography-Graduate-Mathematics/dp/0387942939)
+    2. [Crypto Hack](https://cryptohack.org)
+    3. [Crypto Pals](https://cryptopals.com)
+    4. [A course in Number Theory and cryptography](https://www.amazon.com/Course-Number-Cryptography-Graduate-Mathematics/dp/0387942939)
 3. Distributed Systems
-    - [Talent plan](https://github.com/pingcap/talent-plan)
-    - [RAFT-TIKV](https://tikv.org/deep-dive/consensus-algorithm/raft/)
-    - [BFT-CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
+    1. [Talent plan](https://github.com/pingcap/talent-plan)
+    2. [RAFT-TIKV](https://tikv.org/deep-dive/consensus-algorithm/raft/)
+    3. [BFT-CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
